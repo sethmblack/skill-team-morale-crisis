@@ -3,7 +3,7 @@ name: team-morale-crisis
 description: Maintain and rebuild team morale during extended periods of hardship, uncertainty, or organizational crisis using Ernest Shackleton's Antarctic survival methodology.
 license: MIT
 metadata:
-  version: 1.0.5139
+  version: 1.0.5140
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
